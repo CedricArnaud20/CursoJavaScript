@@ -11,11 +11,3 @@ function Decrement(Number) {
 
 Decrement(15)
 
-
-function revertString(palavra) {
-    const pala = palavra.split('').reverse().join('');
-    return pala;
-
-}
-
-console.log(revertString("Ola"))
