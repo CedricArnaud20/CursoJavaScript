@@ -4,5 +4,5 @@ let nome = ['maria', 'mateus', 'João']
 // }
 
 while (i < nome.length){
-    consolsone(nome[i])
+    console.log(nome[i])
 }
