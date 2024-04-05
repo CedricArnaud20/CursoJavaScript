@@ -26,12 +26,12 @@ class Carro {
 
 
 
-let carro = new Carro("Fiat","Vemelho",100 ,10);
+let carro = new Carro("Fiat","Vemelho",100 ,10);// console.log(carro);
 
-// console.log(carro);
+carro.Dirigir(10)
 
-carro.Dirigir(100)
-
-// carro.Abaster(200)
+//carro.Abaster(200)
 
 console.log(carro);
+
+
