@@ -9,7 +9,7 @@ class Livro {
     emprestar() {
         if (this.disponiboniblidade == true) {
             this.disponiboniblidade = false;
-            console.log("O livro esta disponivel ppar ser emprestado");
+            console.log("O livro esta disponivel para ser emprestado");
         } else {
             console.log("Ops o livro não se encontra disponível para ser emprestado")
         } 
